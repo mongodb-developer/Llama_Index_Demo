@@ -7,7 +7,7 @@ First install Llamaindex
 ```
 pip3 install llama-index
 ```
-then install requirements.txt
+Then install requirements.txt
 
 ```
 pip3 install requirements.txt
