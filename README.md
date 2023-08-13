@@ -2,14 +2,23 @@
 
 ![llama](https://www.aktagon.com/images/articles/LlamaIndex.png)
 
+First install Llamaindex
+
+```
+pip3 install llama-index
+```
+then install requirements.txt
+
+```
+pip3 install requirements.txt
+```
 
 LlamaIndex examples can be found in the examples folder of the LlamaIndex repository. To get started, you can download the examples folder by cloning the repository:
 
 ```
 $ git clone https://github.com/jerryjliu/llama_index.git
-
-Navigate to the repository and verify its contents:
 ```
+Navigate to the repository and verify its contents:
 
 Then cd llama_index
 ```
