@@ -3,10 +3,13 @@ LlamaIndex examples can be found in the examples folder of the LlamaIndex reposi
 
 ```
 $ git clone https://github.com/jerryjliu/llama_index.git
+
 Navigate to the repository and verify its contents:
 ```
-``
-$ cd llama_index
+
+then cd llama_index
+then
+```
 $ ls
 LICENSE                data_requirements.txt  tests/
 MANIFEST.in            examples/              pyproject.toml
