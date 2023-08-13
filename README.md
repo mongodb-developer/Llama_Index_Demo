@@ -29,14 +29,14 @@ Makefile               experimental/          requirements.txt
 README.md              llama_index/             setup.py
 ```
 
-# Next, navigate to the following folder:
+Next, navigate to the following folder:
 
 ```
 $ cd examples/paul_graham_essay
 ```
 This directory contains LlamaIndex examples based on Paul Graham's essay, "What I Worked On". Comprehensive examples are provided in TestEssay.ipynb, but for this tutorial, we'll focus on a simple example to get LlamaIndex up and running.
 
-# Build and Query Index
+Build and Query Index
 Create a new .py file with the following content:
 ```
 from llama_index import VectorStoreIndex, SimpleDirectoryReader
