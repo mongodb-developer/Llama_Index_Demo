@@ -1,4 +1,8 @@
 # LlamaIndex Examples
+
+![llama](https://www.aktagon.com/images/articles/LlamaIndex.png)
+
+
 LlamaIndex examples can be found in the examples folder of the LlamaIndex repository. To get started, you can download the examples folder by cloning the repository:
 
 ```
