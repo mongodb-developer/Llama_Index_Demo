@@ -64,11 +64,15 @@ from llama_index import StorageContext, load_index_from_storage
 
 ```
 # Rebuild the storage context
+
 ```
 storage_context = StorageContext.from_defaults(persist_dir="./storage")
 ```
+
 # Load the index
+
 ```
 index = load_index_from_storage(storage_context)
 ```
+
 Please note that some of the paths and specific details might need to be adapted based on your environment and the structure of your project.
