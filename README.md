@@ -72,4 +72,5 @@ index = load_index_from_storage(storage_context)
 Please note that some of the paths and specific details might need to be adapted based on your environment and the structure of your project.
 
 ![llamaindex](https://www.llamaindex.ai/)
+
 ![Github](https://github.com/jerryjliu/llama_index)
