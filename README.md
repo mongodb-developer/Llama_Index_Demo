@@ -38,8 +38,9 @@ index = VectorStoreIndex.from_documents(documents)
 query_engine = index.as_query_engine()
 response = query_engine.query("What did the author do growing up?")
 print(response)
-This should yield a response similar to: "The author wrote short stories and tried to program on an IBM 1401."
+
 ```
+This should yield a response similar to: "The author wrote short stories and tried to program on an IBM 1401."
 Viewing Queries and Events Using Logging
 In a Jupyter notebook, you can view info and/or debugging logging using the following code snippet:
 
