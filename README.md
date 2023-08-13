@@ -1,4 +1,4 @@
-# LlamaIndex Examples
+# LlamaIndex Example
 
 ![llama](https://www.aktagon.com/images/articles/LlamaIndex.png)
 
