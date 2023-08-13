@@ -56,7 +56,6 @@ By default, data is stored in-memory. To persist data to disk (under ./storage):
 ```
 index.storage_context.persist()
 To reload data from disk:
-```
 from llama_index import StorageContext, load_index_from_storage
 ```
 Rebuild the storage context
