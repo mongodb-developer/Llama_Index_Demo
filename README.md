@@ -78,6 +78,17 @@ Load the index
 ```
 index = load_index_from_storage(storage_context)
 ```
+
+```
+from llama_index.storage.docstore import MongoDocumentStore
+from llama_index.storage.index_store import MongoIndexStore
+from llama_index.storage.storage_context import StorageContext
+
+storage_context = StorageContext.from_defaults(
+    docstore=MongoDocumentStore.from_uri(uri=MONGO_URI, db_name=MONGODB_DATABASE),
+    index_store=MongoIndexStore.from_uri(uri=MONGO_URI, db_name=MONGODB_DATABASE),
+)
+```
 Please note that some of the paths and specific details might need to be adapted based on your environment and the structure of your project.
 
 [Llamaindex](https://www.llamaindex.ai/) 🦙
