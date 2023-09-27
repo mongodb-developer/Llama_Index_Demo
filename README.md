@@ -1,7 +1,5 @@
 # LlamaIndex Example 🦙🦙🦙🦙🦙🦙
 
-![llama](https://www.aktagon.com/images/articles/LlamaIndex.png)
-
 First install Llamaindex
 
 ```
