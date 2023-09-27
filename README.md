@@ -1,5 +1,6 @@
 # LlamaIndex Example 🦙🦙🦙🦙🦙🦙
-![superllama](https://api.wandb.ai/files/mostafaibrahim17/images/projects/37042936/bbc5d726.png)
+
+![Image](https://api.wandb.ai/files/mostafaibrahim17/images/projects/37042936/bbc5d726.png =250x)
 
 
 First install Llamaindex
