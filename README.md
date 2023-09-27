@@ -1,6 +1,6 @@
 # LlamaIndex Example 🦙🦙🦙🦙🦙🦙
 
-![Image](https://api.wandb.ai/files/mostafaibrahim17/images/projects/37042936/bbc5d726.png =250x)
+<img src="https://api.wandb.ai/files/mostafaibrahim17/images/projects/37042936/bbc5d726.png" width="250">
 
 
 First install Llamaindex
